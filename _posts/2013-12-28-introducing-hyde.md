@@ -8,6 +8,6 @@ I am a postdoctoral researcher in computational biology in the Sims group in the
 - <a href="https://aspace.repository.cam.ac.uk/handle/1810/343583">Link to my PhD thesis</a>
 - <a href="https://scholar.google.com/citations?user=V5taF08AAAAJ&hl=en&oi=ao">Link to my google scholar profile </a>
 - <a href="https://github.com/lm687">Link to my github profile</a>
--  <a href="https://twitter.com/MorrillLena">Link to my twitter account</a></li>
+-  <a href="https://twitter.com/MorrillLena">Link to my twitter account</a>
 
 Other projects I have been involved in are the <a href="https://resilienceweb.org.uk/">Cambridge Resilience Web.
