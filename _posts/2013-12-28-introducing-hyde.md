@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: About
 ---
 
 I am a postdoctoral researcher in computational biology in the Sims group in the MRC Weatherall Institute of Molecular Medicine at the University of Oxford. Previously, I was a Mathematical Genomics and Medicine PhD student in the Markowetz group in the CRUK CI at the University of Cambridge. I am an alumna of Clare College, Cambridge, Lucy Cavendish College, Cambridge, and the Universitat Autònoma de Barcelona. I have supervised for the Bioinformatics course (Part II Computer Science) and taught in the MPhil in Computational Biology.
